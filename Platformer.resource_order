@@ -17,8 +17,14 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"sPlayerA","order":4,"path":"sprites/sPlayerA/sPlayerA.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"sClouds","order":6,"path":"sprites/sClouds/sClouds.yy",},
     {"name":"sBackground","order":2,"path":"sprites/sBackground/sBackground.yy",},
+    {"name":"sWalls","order":5,"path":"sprites/sWalls/sWalls.yy",},
+    {"name":"sPlayer","order":3,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"sGrain","order":7,"path":"sprites/sGrain/sGrain.yy",},
     {"name":"sInvisibleWall","order":1,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
+    {"name":"sPlayerR","order":8,"path":"sprites/sPlayerR/sPlayerR.yy",},
   ],
 }
