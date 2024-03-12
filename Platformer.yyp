@@ -39,6 +39,7 @@
     {"id":{"name":"sClouds","path":"sprites/sClouds/sClouds.yy",},},
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
     {"id":{"name":"sWalls","path":"sprites/sWalls/sWalls.yy",},},
+    {"id":{"name":"tWalls","path":"tilesets/tWalls/tWalls.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sGrain","path":"sprites/sGrain/sGrain.yy",},},
     {"id":{"name":"sInvisibleWall","path":"sprites/sInvisibleWall/sInvisibleWall.yy",},},
