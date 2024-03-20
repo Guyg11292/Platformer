@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"sPlayerA","order":4,"path":"sprites/sPlayerA/sPlayerA.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"obj_control","order":2,"path":"objects/obj_control/obj_control.yy",},
     {"name":"sClouds","order":6,"path":"sprites/sClouds/sClouds.yy",},
     {"name":"sWalls","order":5,"path":"sprites/sWalls/sWalls.yy",},
     {"name":"sPlayer","order":3,"path":"sprites/sPlayer/sPlayer.yy",},

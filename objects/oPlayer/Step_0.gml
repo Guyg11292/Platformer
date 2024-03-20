@@ -12,10 +12,16 @@ hsp = _move * walksp;
 
 vsp = vsp + grv;
 
-if(place_meeting(x,y+1,oWall)) && (key_jump)
-{
-	vsp = -jumpsp
+// Jump
+
+if(place_meeting(x,y+1,oWall)) && (key_jump){
+	currjumps = 0;
 }
+
+if (key_jump && (currjumps < maxjumps)) {
+	vsp = -jumpsp;
+	currjumps += 1;
+} 
 //Horizontal collision
 if (place_meeting(x+hsp,y,oWall))
 {

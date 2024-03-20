@@ -36,6 +36,7 @@
   "resources": [
     {"id":{"name":"sPlayerA","path":"sprites/sPlayerA/sPlayerA.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
+    {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},},
     {"id":{"name":"sClouds","path":"sprites/sClouds/sClouds.yy",},},
     {"id":{"name":"sWalls","path":"sprites/sWalls/sWalls.yy",},},
     {"id":{"name":"tWalls","path":"tilesets/tWalls/tWalls.yy",},},
